@@ -27,11 +27,6 @@ Binary Tree Visualizer is a program to demonstrate basic bainary tree operation,
 * Implementing node positioning to center parent node over their subtrees and eliminate overlapping.
 * Improve visual aesthetics, includiing colors, line thickness etc.
 * Add ineractive features such as inserting, dleting, or searching nodes via CUI buttons.
-## Examples:
-### Early Stages
-![Tree visualization #1](/images/Zrzut%20ekranu%202025-09-16%20201137.png)
-![Tree visualization #2](/images/Zrzut%20ekranu%202025-09-16%20201154.png)
-![Tree visualization #3](/images/Zrzut%20ekranu%202025-09-16%20201210.png)
 
 ### Adding some functionality:
 1. GUI
